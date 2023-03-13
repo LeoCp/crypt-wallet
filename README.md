@@ -50,3 +50,10 @@ or android
 yarn android
 ```
 
+### Wish list
+- [ ] Create test
+- [ ] Create a separate lib for core using swift and kotlin
+- [ ] Create wallet
+- [ ] List transactions
+
+
